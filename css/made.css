@@ -601,7 +601,7 @@ input::placeholder {
 
 .form-subscribe {
   display: flex;
-  gap 24px;
+  gap: 24px;
 }
 
 /**-----------------------MODAL WINDOW-----------------  */
@@ -783,7 +783,7 @@ input::placeholder {
 }
 
 .label-privacy span {
-  width: 16px; 
+  width: 16px;
   height: 16px;
   border-radius: 2px;
   border: 1px solid var(--navyblue-modal, rgba(46, 47, 66, 0.4));
